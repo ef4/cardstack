@@ -1,5 +1,5 @@
 import { tracked } from '@glimmer/tracking';
-import { Resource } from 'ember-resources';
+import { Resource } from 'ember-modify-based-class-resource';
 import * as Sentry from '@sentry/browser';
 import OffChainJsonService from '../services/off-chain-json';
 import { inject as service } from '@ember/service';

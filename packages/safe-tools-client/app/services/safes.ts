@@ -14,7 +14,7 @@ import { tracked } from '@glimmer/tracking';
 import { TaskGenerator, rawTimeout } from 'ember-concurrency';
 import { task } from 'ember-concurrency-decorators';
 import { taskFor } from 'ember-concurrency-ts';
-import { use, resource } from 'ember-resources';
+import { use, resource } from 'ember-resources'
 import { BigNumber } from 'ethers';
 import { TrackedObject } from 'tracked-built-ins';
 

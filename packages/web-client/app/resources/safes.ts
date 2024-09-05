@@ -1,4 +1,4 @@
-import { Resource } from 'ember-resources';
+import { Resource } from 'ember-modify-based-class-resource';
 // eslint-disable-next-line no-restricted-imports
 import {
   Safe,

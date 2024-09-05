@@ -1,5 +1,5 @@
 import { tracked } from '@glimmer/tracking';
-import { Resource } from 'ember-resources';
+import { Resource } from 'ember-modify-based-class-resource';
 import * as Sentry from '@sentry/browser';
 import { isStorage404 } from '@cardstack/web-client/utils/fetch-off-chain-json';
 import OffChainJsonService from '../services/off-chain-json';
