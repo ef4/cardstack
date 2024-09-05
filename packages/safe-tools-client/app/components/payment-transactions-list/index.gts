@@ -2,7 +2,7 @@
 import Component from '@glimmer/component';
 
 import './index.css';
-import { use, resource } from 'ember-resources';
+import { use, resource } from 'ember-resources'
 import BlockExplorerButton from '@cardstack/safe-tools-client/components/block-explorer-button';
 import BoxelDropdown from '@cardstack/boxel/components/boxel/dropdown';
 import BoxelDropdownTrigger from '@cardstack/boxel/components/boxel/dropdown/trigger';

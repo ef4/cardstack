@@ -11,7 +11,7 @@ import Service, { inject as service } from '@ember/service';
 import { didCancel, task, TaskGenerator } from 'ember-concurrency';
 import { taskFor } from 'ember-concurrency-ts';
 import DateService from 'ember-date-service/service/date';
-import { use, resource } from 'ember-resources';
+import { use, resource } from 'ember-resources'
 import { BigNumber } from 'ethers';
 import { TrackedObject } from 'tracked-built-ins';
 

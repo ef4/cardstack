@@ -7,7 +7,7 @@ import {
 import NetworkService from '@cardstack/safe-tools-client/services/network';
 import Service, { inject as service } from '@ember/service';
 import { tracked } from '@glimmer/tracking';
-import { use, resource } from 'ember-resources';
+import { use, resource } from 'ember-resources'
 import sortBy from 'lodash/sortBy';
 import { TrackedObject } from 'tracked-built-ins';
 
