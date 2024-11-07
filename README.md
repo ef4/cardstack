@@ -1,5 +1,7 @@
 # Cardstack App Suite
 
+[![explore database with Azimutt](https://img.shields.io/badge/PostgreSQL-browse_online-gray?labelColor=4169E1&logo=postgresql&logoColor=fff&style=flat)](https://azimutt.app/create?sql=https://raw.githubusercontent.com/cardstack/cardstack/refs/heads/main/packages/hub/config/structure.sql&name=Cardstack)
+
 This is the main repo for [Cardstack](https://www.cardstack.com/), an open source application architecture for building cohesive experiences, including payments, on open, decentralized infrastructure.
 
 Join the discussion around developing on the Cardstack framework on [Discord](https://discord.gg/apepFje), and read our documentation on [docs.cardstack.com](https://docs.cardstack.com). (Note: documentation refers to [Cardstack v2](https://github.com/cardstack/cardstack/tree/cardstack-v2-eol). The main branch of this respository has in-progress work on v3 of Cardstack.)
